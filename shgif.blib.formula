@@ -1,7 +1,7 @@
 class:Library() {
-  @required public string name = "shgif"
-  @required public string url = "https://github.com/Cj-bc/shgif"
-  @required public array scripts push "lib/shgif.sh"
+  @required public string name = "libshgif"
+  @required public string url = "https://github.com/Cj-bc/libshgif"
+  @required public array scripts push "libshgif.sh"
             public string description = "Library of shgif"
 }
 
